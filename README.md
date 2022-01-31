@@ -1,4 +1,4 @@
-# brewery-hours-traker
+# brewery-hours-tracker
 A Python app for tracking brewery hours
 
 ### Resources used from:
